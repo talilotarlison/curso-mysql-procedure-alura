@@ -42,4 +42,4 @@ DELIMITER ;
 [Emita seu certificado na Alura após concluir as 61 atividades](https://www.alura.com.br/).
 
 ---
-*Projeto desenvolvido por [Seu Nome] baseando-se no conteúdo da Alura.*
+*Projeto desenvolvido por [Talilo Tarlison] baseando-se no conteúdo da Alura.*
